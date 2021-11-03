@@ -16,9 +16,9 @@
 - [Cascade](./cascade.md)
 - [ACID](./acid.md)
 - [Normalization](./normalization.md)
-- [Database Normalization example](./database_normalization_example.md)
+- [Database Normalization example](./database_normalization_example.md) -->
 - [DQL - Select statament](./dql.md)
-- [DQL - Where clause](./dql_where.md) -->
+- [DQL - Where clause](./dql_where.md)
 - [DQL - Group by clause and aggregation functions](./dql_group_by.md)
 - [DQL - The HAVING clause](./the_having_clause.md)
 - [DQL - The ORDER BY clause](./the_order_by_clause.md)
