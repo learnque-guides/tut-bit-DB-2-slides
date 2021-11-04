@@ -5,6 +5,7 @@ Write a query against the Sales.Orders table that returns orders placed on the l
 * Tables involved: *lessons* database and the *Sales.Orders table*
 * Desired output (abbreviated):
 
+```
 orderid     orderdate  custid      empid
 ----------- ---------- ----------- -----------
 10269       2014-07-31 89          5
@@ -20,3 +21,4 @@ orderid     orderdate  custid      empid
 ...
 
 (26 row(s) affected)
+```

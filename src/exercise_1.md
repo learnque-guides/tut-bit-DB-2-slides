@@ -6,6 +6,7 @@ Write a query against the *Sales.Orders* table that returns orders placed in Jun
 
 * Desired output (abbreviated):
 
+```
 orderid     orderdate  custid      empid
 ----------- ---------- ----------- -----------
 10555       2015-06-02 71          6
@@ -21,3 +22,4 @@ orderid     orderdate  custid      empid
 ...
 
 (30 row(s) affected)
+```

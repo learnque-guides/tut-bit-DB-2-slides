@@ -5,6 +5,7 @@ Write a query against the *Sales.OrderDetails* table that returns orders with a 
 * Tables involved: *lessons* database and the *Sales.OrderDetails* table
 * Desired output:
 
+```
 orderid     totalvalue
 ----------- ---------------------
 10865       17250.00
@@ -23,3 +24,4 @@ orderid     totalvalue
 10691       10164.80
 
 (14 row(s) affected)
+```

@@ -5,6 +5,7 @@ Write a query against the *Sales.Customers* table that returns for each customer
 * Tables involved: *lessons* database and the *Sales.Customers* table
 * Desired output (abbreviated):
 
+```
 custid      region
 ----------- ---------------
 55          AK
@@ -31,6 +32,7 @@ custid      region
 ...
 
 (91 row(s) affected)
+```
 
 Tip:
 

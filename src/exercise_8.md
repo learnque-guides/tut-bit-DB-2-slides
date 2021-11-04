@@ -5,6 +5,7 @@ Using the *HR.Employees* table, write a *SELECT* statement that returns for each
 * Tables involved: *lessons* database and the *HR.Employees* table
 * Desired output:
 
+```
 empid       firstname  lastname             titleofcourtesy           gender
 ----------- ---------- -------------------- ------------------------- -------
 1           Sara       Davis                Ms.                       Female
@@ -18,3 +19,4 @@ empid       firstname  lastname             titleofcourtesy           gender
 9           Patricia   Doyle                Ms.                       Female
 
 (9 row(s) affected)
+```

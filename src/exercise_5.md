@@ -7,7 +7,9 @@ Note: You need to specify `COLLATE Latin1_General_CS_AS` before `LIKE`. The coll
 * Tables involved: *lessons* database and the *HR.Employees* table
 * Desired output is an empty set:
 
+```
 empid       lastname
 ----------- --------------------
 
 (0 row(s) affected))
+```
